@@ -1,6 +1,7 @@
 execute pathogen#infect()
 let NERDTreeDirArrows=0
 syntax on
+set encoding=utf-8
 filetype indent plugin on
 set foldlevel=99
 set foldmethod=indent
