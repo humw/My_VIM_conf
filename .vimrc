@@ -43,3 +43,6 @@ colorscheme solarized
 "for nerdcommenter"
 let mapleader=","
 set timeout timeoutlen=1500
+
+"for taglist
+nnoremap <silent> <F8> :TlistToggle<CR>
