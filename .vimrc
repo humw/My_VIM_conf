@@ -21,6 +21,11 @@ Plugin 'altercation/vim-colors-solarized'
 Plugin 'scrooloose/syntastic'
 Plugin 'nvie/vim-flake8'
 
+Plugin 'davidhalter/jedi-vim'
+" Need to install jedi using pip
+
+Plugin 'vim-scripts/HTML-AutoCloseTag'
+
 
 
 
